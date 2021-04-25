@@ -1,0 +1,19 @@
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\obj\Debug\IULMS.csprojResolveAssemblyReference.cache
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\bin\IULMS.dll.config
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\bin\IULMS.dll
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\bin\IULMS.pdb
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\obj\Debug\IULMS.dll
+c:\users\ali_a\onedrive\documents\visual studio 2013\projects\IULMS\IULMS\obj\Debug\IULMS.pdb
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\bin\IULMS.dll.config
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\bin\IULMS.dll
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\bin\IULMS.pdb
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\obj\Debug\IULMS.csprojAssemblyReference.cache
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\obj\Debug\IULMS.dll
+C:\Users\ALI AURANGZEB\Desktop\IULMS\IULMS\obj\Debug\IULMS.pdb
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\bin\IULMS.dll.config
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\bin\IULMS.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\bin\IULMS.pdb
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\obj\Debug\IULMS.csprojAssemblyReference.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\obj\Debug\IULMS.csproj.CoreCompileInputs.cache
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\obj\Debug\IULMS.dll
+C:\Users\ALI AURANGZEB\Desktop\PROJECTS TEST\IULMS\IULMS\obj\Debug\IULMS.pdb
